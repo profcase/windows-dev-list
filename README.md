@@ -11,7 +11,7 @@
 - [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
 - [Windows File Management with PowerShell](https://github.com/denisecase/windows-file-management)
 - [Basic Tools for Web Development](https://github.com/denisecase/basic-tools-for-webdev)
-- [Getting started with Git on Window](https://github.com/denisecase/git-started-windows)
+- [Getting started with Git on Windows](https://github.com/denisecase/git-started-windows)
 - [Windows Daily Software Upgrade (Automated!)](https://github.com/denisecase/windows-daily-software-upgrade)
 
 ## See also
